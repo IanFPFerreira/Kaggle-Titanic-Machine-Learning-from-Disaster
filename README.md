@@ -1,4 +1,4 @@
-# Kaggle: Titanic Machine Learning from Disaste
+# Kaggle: Titanic Machine Learning from Disaster
 <img src="titanic/titanic.jpg" width=100%>
 
 O naufrágio do Titanic é um dos mais infames naufrágios da história.
