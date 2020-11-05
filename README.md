@@ -48,5 +48,6 @@ from sklearn.ensemble import VotingClassifier
 from sklearn.ensemble import BaggingClassifier
 ```
 
-# Score obtido:
-  **0.73205**
+# Scores obtidos:
+- 1)  **0.73205**
+- 2)  **0.75598**
